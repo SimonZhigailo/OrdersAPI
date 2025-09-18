@@ -1,4 +1,6 @@
-public record OrderCreatedEvent
+using MediatR;
+
+public record OrderCreatedEvent : INotification
 {
     public int OrderId { get; set; }
     public required string FirstName { get; set; }

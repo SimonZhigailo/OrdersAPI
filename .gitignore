@@ -6,3 +6,14 @@
 /WriteDb.db
 /WriteDb.db-shm
 /WriteDb.db-wal
+bin/Debug/net9.0/MediatR.Contracts.dll
+bin/Debug/net9.0/MediatR.dll
+bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+bin/Debug/net9.0/OrdersAPI.deps.json
+bin/Debug/net9.0/OrdersAPI.dll
+bin/Debug/net9.0/OrdersAPI.exe
+bin/Debug/net9.0/OrdersAPI.pdb
+bin/Debug/net9.0/OrdersAPI.deps.json
