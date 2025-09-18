@@ -1,0 +1,8 @@
+/NoCQRS.db
+/obj
+/ReadDb.db
+/ReadDb.db-shm
+/ReadDb.db-wal
+/WriteDb.db
+/WriteDb.db-shm
+/WriteDb.db-wal
